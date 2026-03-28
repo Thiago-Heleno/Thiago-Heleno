@@ -35,8 +35,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Thiago-Heleno&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Heleno&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Thiago-Heleno&theme=github-dark-blue&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Heleno&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
 <br/>
